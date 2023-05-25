@@ -1,0 +1,9 @@
+li, h2, p {
+    font-family: 'Courier New', Courier, monospace;
+    color: dodgerblue;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    color: red;
+}

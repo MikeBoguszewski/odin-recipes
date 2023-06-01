@@ -5,5 +5,34 @@ li, h2, p {
 
 h1 {
     font-family: 'Courier New', Courier, monospace;
-    color: red;
+    color: blue;
+}
+
+.homepage-title {
+    background-color: skyblue;
+    padding: 20px;
+    text-align: center;
+    width: 150px;
+    height: auto;
+    margin: auto;
+}
+
+.recipes-list {
+    background-color:skyblue;
+    padding: 25px;
+    
+}
+
+.home-background {
+   background-color: darkcyan;
+   border: 2px solid black;
+   width: 500px;
+   height: auto;
+   margin: auto;
+   padding: 10px;
+
+}
+
+.body {
+    background-color: #eee
 }
